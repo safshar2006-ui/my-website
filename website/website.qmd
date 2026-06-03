@@ -1,0 +1,45 @@
+---
+title: "Samane Afshari"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app
+    - icon: github
+      text: GitHub
+      href: https://github.com/s-afshar2006
+---
+
+Samane Afshari is a PhD student in Planning and Public Policy at the University of Oregon. Her research focuses on climate governance, sustainability policy, environmental justice, and the localization of global sustainability frameworks such as the Sustainable Development Goals (SDGs).
+
+## Education
+
+**University of Oregon** | Eugene, OR  
+PhD in Planning, Public Policy and Management | Sept 2024–Present
+
+**University of Tehran** | Tehran, Iran  
+M.A. in European Studies | 2010–2012
+
+## Research Interests
+
+Climate governance
+Sustainable development
+Environmental justice
+Urban policy and planning
+Multi-level governance
+Public participation
+
+## Experience
+
+**Graduate Employee (Research & Teaching)**  
+University of Oregon | 2024–Present
+
+Teaching and research support in public policy, planning, and climate governance.
+
+## Contact
+
+Email: s.afshar2006@gmail.com
+
+GitHub: https://github.com/s-afshar2006
