@@ -1,17 +1,4 @@
 ---
-title: "mywebsite"
----
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-```{r}
-1 + 1
-```
-
-```{r}
----
 title: "Finley Malloc"
 about:
   template: jolla
@@ -40,4 +27,9 @@ B.A in Economics | Sept 2007 - June 2011
 Wengo Analytics | Head Data Scientist | April 2018 - present
 
 GeoScynce | Chief Analyst | Spet 2012 - April 2018
-```
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
