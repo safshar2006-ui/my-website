@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "mywebsite.html",
+    "href": "mywebsite.html",
+    "title": "Finley Malloc",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "mywebsite.html#education",
+    "href": "mywebsite.html#education",
+    "title": "Finley Malloc",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "mywebsite.html#experience",
+    "href": "mywebsite.html#experience",
+    "title": "Finley Malloc",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present"
+  },
+  {
+    "objectID": "mywebsite.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "href": "mywebsite.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "title": "Finley Malloc",
+    "section": "GeoScynce | Chief Analyst | Spet 2012 - April 2018",
+    "text": "GeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "mywebsite.html#quarto",
+    "href": "mywebsite.html#quarto",
+    "title": "Finley Malloc",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  }
+]

@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "mywebsite.html",
-    "href": "mywebsite.html",
-    "title": "mywebsite",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Samane Afshar",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a Ph.D. student in Planning and Public Affairs at the University of Oregon. My research focuses on urban climate governance, sustainability, and local policy implementation."
   },
   {
-    "objectID": "mywebsite.html#quarto",
-    "href": "mywebsite.html#quarto",
-    "title": "mywebsite",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Samane Afshar",
+    "section": "Education",
+    "text": "Education\nUniversity of Oregon\nPh.D. in Planning and Public Affairs"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Samane Afshar",
+    "section": "Research Interests",
+    "text": "Research Interests\nUrban climate governance\nSustainability policy\nLocal environmental planning"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Samane Afshar",
+    "section": "Experience",
+    "text": "Experience\nGraduate Employee, University of Oregon"
   }
 ]
